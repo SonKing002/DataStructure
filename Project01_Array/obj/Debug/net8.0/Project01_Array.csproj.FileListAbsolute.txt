@@ -1,0 +1,14 @@
+C:\Users\son\Documents\Github\DataStructure\Project01_Array\bin\Debug\net8.0\Project01_Array.exe
+C:\Users\son\Documents\Github\DataStructure\Project01_Array\bin\Debug\net8.0\Project01_Array.deps.json
+C:\Users\son\Documents\Github\DataStructure\Project01_Array\bin\Debug\net8.0\Project01_Array.runtimeconfig.json
+C:\Users\son\Documents\Github\DataStructure\Project01_Array\bin\Debug\net8.0\Project01_Array.dll
+C:\Users\son\Documents\Github\DataStructure\Project01_Array\bin\Debug\net8.0\Project01_Array.pdb
+C:\Users\son\Documents\Github\DataStructure\Project01_Array\obj\Debug\net8.0\Project01_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\son\Documents\Github\DataStructure\Project01_Array\obj\Debug\net8.0\Project01_Array.AssemblyInfoInputs.cache
+C:\Users\son\Documents\Github\DataStructure\Project01_Array\obj\Debug\net8.0\Project01_Array.AssemblyInfo.cs
+C:\Users\son\Documents\Github\DataStructure\Project01_Array\obj\Debug\net8.0\Project01_Array.csproj.CoreCompileInputs.cache
+C:\Users\son\Documents\Github\DataStructure\Project01_Array\obj\Debug\net8.0\Project01_Array.dll
+C:\Users\son\Documents\Github\DataStructure\Project01_Array\obj\Debug\net8.0\refint\Project01_Array.dll
+C:\Users\son\Documents\Github\DataStructure\Project01_Array\obj\Debug\net8.0\Project01_Array.pdb
+C:\Users\son\Documents\Github\DataStructure\Project01_Array\obj\Debug\net8.0\Project01_Array.genruntimeconfig.cache
+C:\Users\son\Documents\Github\DataStructure\Project01_Array\obj\Debug\net8.0\ref\Project01_Array.dll

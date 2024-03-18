@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{170EFD71-4FB2-4D69-87ED-DC2950608E27}|2.List\\2_List.csproj|c:\\users\\son\\documents\\github\\datastructure\\2.list\\listoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170EFD71-4FB2-4D69-87ED-DC2950608E27}|2.List\\2_List.csproj|solutionrelative:2.list\\listoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170EFD71-4FB2-4D69-87ED-DC2950608E27}|2.List\\2.List.csproj|c:\\users\\son\\documents\\github\\datastructure\\2.list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170EFD71-4FB2-4D69-87ED-DC2950608E27}|2.List\\2.List.csproj|solutionrelative:2.list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170EFD71-4FB2-4D69-87ED-DC2950608E27}|2.List\\2_List.csproj|c:\\users\\son\\documents\\github\\datastructure\\2.list\\list.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{170EFD71-4FB2-4D69-87ED-DC2950608E27}|2.List\\2_List.csproj|solutionrelative:2.list\\list.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\Project01_Array.csproj|c:\\users\\son\\documents\\github\\datastructure\\project01_array\\24_03_18\\2024_03_18firstday.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\Project01_Array.csproj|solutionrelative:project01_array\\24_03_18\\2024_03_18firstday.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\Project01_Array.csproj|c:\\users\\son\\documents\\github\\datastructure\\project01_array\\24_03_18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\Project01_Array.csproj|solutionrelative:project01_array\\24_03_18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListofT.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\ListofT.cs",
+              "RelativeDocumentMoniker": "2.List\\ListofT.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\ListofT.cs",
+              "RelativeToolTip": "2.List\\ListofT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:40:34.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.txt",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\List.txt",
+              "RelativeDocumentMoniker": "2.List\\List.txt",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\List.txt",
+              "RelativeToolTip": "2.List\\List.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-18T05:36:04.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\Program.cs",
+              "RelativeDocumentMoniker": "2.List\\Program.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\Program.cs",
+              "RelativeToolTip": "2.List\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:34:26.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2024_03_18FirstDay.txt",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\24_03_18\\2024_03_18FirstDay.txt",
+              "RelativeDocumentMoniker": "Project01_Array\\24_03_18\\2024_03_18FirstDay.txt",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\24_03_18\\2024_03_18FirstDay.txt",
+              "RelativeToolTip": "Project01_Array\\24_03_18\\2024_03_18FirstDay.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-18T04:33:28.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\24_03_18\\Program.cs",
+              "RelativeDocumentMoniker": "Project01_Array\\24_03_18\\Program.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\24_03_18\\Program.cs",
+              "RelativeToolTip": "Project01_Array\\24_03_18\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:08:07.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

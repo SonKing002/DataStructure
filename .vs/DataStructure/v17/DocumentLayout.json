@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2B3F080D-CFC1-401D-8BB5-BA4F4ED964E2}|5_LinkedList\\5_LinkedList.csproj|c:\\users\\son\\documents\\github\\datastructure\\5_linkedlist\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3F080D-CFC1-401D-8BB5-BA4F4ED964E2}|5_LinkedList\\5_LinkedList.csproj|solutionrelative:5_linkedlist\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3F080D-CFC1-401D-8BB5-BA4F4ED964E2}|5_LinkedList\\5_LinkedList.csproj|c:\\users\\son\\documents\\github\\datastructure\\5_linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3F080D-CFC1-401D-8BB5-BA4F4ED964E2}|5_LinkedList\\5_LinkedList.csproj|solutionrelative:5_linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C180B1D0-40C1-46B5-A670-2E48C9EDC8BF}|3_Stack\\3_Stack.csproj|c:\\users\\son\\documents\\github\\datastructure\\3_stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C180B1D0-40C1-46B5-A670-2E48C9EDC8BF}|3_Stack\\3_Stack.csproj|solutionrelative:3_stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C180B1D0-40C1-46B5-A670-2E48C9EDC8BF}|3_Stack\\3_Stack.csproj|c:\\users\\son\\documents\\github\\datastructure\\3_stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C180B1D0-40C1-46B5-A670-2E48C9EDC8BF}|3_Stack\\3_Stack.csproj|solutionrelative:3_stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A1237-39DD-47EE-9EDA-D26F1A41EB89}|4_StackMaze\\4_StackMaze.csproj|c:\\users\\son\\documents\\github\\datastructure\\4_stackmaze\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A1237-39DD-47EE-9EDA-D26F1A41EB89}|4_StackMaze\\4_StackMaze.csproj|solutionrelative:4_stackmaze\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A1237-39DD-47EE-9EDA-D26F1A41EB89}|4_StackMaze\\4_StackMaze.csproj|c:\\users\\son\\documents\\github\\datastructure\\4_stackmaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A1237-39DD-47EE-9EDA-D26F1A41EB89}|4_StackMaze\\4_StackMaze.csproj|solutionrelative:4_stackmaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234A1237-39DD-47EE-9EDA-D26F1A41EB89}|4_StackMaze\\4_StackMaze.csproj|c:\\users\\son\\documents\\github\\datastructure\\4_stackmaze\\location2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234A1237-39DD-47EE-9EDA-D26F1A41EB89}|4_StackMaze\\4_StackMaze.csproj|solutionrelative:4_stackmaze\\location2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\1_Array.csproj|c:\\users\\son\\documents\\github\\datastructure\\project01_array\\24_03_18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\1_Array.csproj|solutionrelative:project01_array\\24_03_18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{170EFD71-4FB2-4D69-87ED-DC2950608E27}|2.List\\2_List.csproj|c:\\users\\son\\documents\\github\\datastructure\\2.list\\listoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{170EFD71-4FB2-4D69-87ED-DC2950608E27}|2.List\\2_List.csproj|solutionrelative:2.list\\listoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{170EFD71-4FB2-4D69-87ED-DC2950608E27}|2.List\\2.List.csproj|c:\\users\\son\\documents\\github\\datastructure\\2.list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{170EFD71-4FB2-4D69-87ED-DC2950608E27}|2.List\\2.List.csproj|solutionrelative:2.list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{170EFD71-4FB2-4D69-87ED-DC2950608E27}|2.List\\2_List.csproj|c:\\users\\son\\documents\\github\\datastructure\\2.list\\list.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{170EFD71-4FB2-4D69-87ED-DC2950608E27}|2.List\\2_List.csproj|solutionrelative:2.list\\list.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\Project01_Array.csproj|c:\\users\\son\\documents\\github\\datastructure\\project01_array\\24_03_18\\2024_03_18firstday.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\Project01_Array.csproj|solutionrelative:project01_array\\24_03_18\\2024_03_18firstday.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\Project01_Array.csproj|c:\\users\\son\\documents\\github\\datastructure\\project01_array\\24_03_18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\Project01_Array.csproj|solutionrelative:project01_array\\24_03_18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\1_Array.csproj|c:\\users\\son\\documents\\github\\datastructure\\project01_array\\1_array.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\1_Array.csproj|solutionrelative:project01_array\\1_array.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +55,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ListofT.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\ListofT.cs",
-              "RelativeDocumentMoniker": "2.List\\ListofT.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\ListofT.cs",
-              "RelativeToolTip": "2.List\\ListofT.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\5_LinkedList\\LinkedList.cs",
+              "RelativeDocumentMoniker": "5_LinkedList\\LinkedList.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\5_LinkedList\\LinkedList.cs",
+              "RelativeToolTip": "5_LinkedList\\LinkedList.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAkwJEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T05:40:34.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "List.txt",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\List.txt",
-              "RelativeDocumentMoniker": "2.List\\List.txt",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\List.txt",
-              "RelativeToolTip": "2.List\\List.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-18T05:36:04.096Z",
+              "WhenOpened": "2024-03-19T07:35:08.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\Program.cs",
-              "RelativeDocumentMoniker": "2.List\\Program.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\Program.cs",
-              "RelativeToolTip": "2.List\\Program.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAQwDUAAABCAAAA",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\5_LinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "5_LinkedList\\Program.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\5_LinkedList\\Program.cs",
+              "RelativeToolTip": "5_LinkedList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T05:34:26.209Z",
+              "WhenOpened": "2024-03-19T07:34:54.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "2024_03_18FirstDay.txt",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\24_03_18\\2024_03_18FirstDay.txt",
-              "RelativeDocumentMoniker": "Project01_Array\\24_03_18\\2024_03_18FirstDay.txt",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\24_03_18\\2024_03_18FirstDay.txt",
-              "RelativeToolTip": "Project01_Array\\24_03_18\\2024_03_18FirstDay.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-18T04:33:28.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\24_03_18\\Program.cs",
               "RelativeDocumentMoniker": "Project01_Array\\24_03_18\\Program.cs",
               "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\24_03_18\\Program.cs",
               "RelativeToolTip": "Project01_Array\\24_03_18\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAAAAAAA",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAwIoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T02:08:07.687Z",
+              "WhenOpened": "2024-03-19T02:33:13.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "1_Array",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\1_Array.csproj",
+              "RelativeDocumentMoniker": "Project01_Array\\1_Array.csproj",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\1_Array.csproj",
+              "RelativeToolTip": "Project01_Array\\1_Array.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T02:33:09.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Location2D.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\4_StackMaze\\Location2D.cs",
+              "RelativeDocumentMoniker": "4_StackMaze\\Location2D.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\4_StackMaze\\Location2D.cs",
+              "RelativeToolTip": "4_StackMaze\\Location2D.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAAGMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T01:49:08.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\4_StackMaze\\Stack.cs",
+              "RelativeDocumentMoniker": "4_StackMaze\\Stack.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\4_StackMaze\\Stack.cs",
+              "RelativeToolTip": "4_StackMaze\\Stack.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAqwEoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T01:47:42.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\4_StackMaze\\Program.cs",
+              "RelativeDocumentMoniker": "4_StackMaze\\Program.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\4_StackMaze\\Program.cs",
+              "RelativeToolTip": "4_StackMaze\\Program.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAqwJAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T01:47:01.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\3_Stack\\Stack.cs",
+              "RelativeDocumentMoniker": "3_Stack\\Stack.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\3_Stack\\Stack.cs",
+              "RelativeToolTip": "3_Stack\\Stack.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAJgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T01:06:16.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\3_Stack\\Program.cs",
+              "RelativeDocumentMoniker": "3_Stack\\Program.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\3_Stack\\Program.cs",
+              "RelativeToolTip": "3_Stack\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T00:58:51.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListofT.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\ListofT.cs",
+              "RelativeDocumentMoniker": "2.List\\ListofT.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\ListofT.cs",
+              "RelativeToolTip": "2.List\\ListofT.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAwwM8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:40:34.891Z",
               "EditorCaption": ""
             }
           ]

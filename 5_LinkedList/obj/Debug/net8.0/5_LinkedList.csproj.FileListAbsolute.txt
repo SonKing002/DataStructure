@@ -1,0 +1,15 @@
+C:\Users\son\Documents\Github\DataStructure\5_LinkedList\bin\Debug\net8.0\5_LinkedList.exe
+C:\Users\son\Documents\Github\DataStructure\5_LinkedList\bin\Debug\net8.0\5_LinkedList.deps.json
+C:\Users\son\Documents\Github\DataStructure\5_LinkedList\bin\Debug\net8.0\5_LinkedList.runtimeconfig.json
+C:\Users\son\Documents\Github\DataStructure\5_LinkedList\bin\Debug\net8.0\5_LinkedList.dll
+C:\Users\son\Documents\Github\DataStructure\5_LinkedList\bin\Debug\net8.0\5_LinkedList.pdb
+C:\Users\son\Documents\Github\DataStructure\5_LinkedList\obj\Debug\net8.0\5_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\son\Documents\Github\DataStructure\5_LinkedList\obj\Debug\net8.0\5_LinkedList.AssemblyInfoInputs.cache
+C:\Users\son\Documents\Github\DataStructure\5_LinkedList\obj\Debug\net8.0\5_LinkedList.AssemblyInfo.cs
+C:\Users\son\Documents\Github\DataStructure\5_LinkedList\obj\Debug\net8.0\5_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\son\Documents\Github\DataStructure\5_LinkedList\obj\Debug\net8.0\5_LinkedList.sourcelink.json
+C:\Users\son\Documents\Github\DataStructure\5_LinkedList\obj\Debug\net8.0\5_LinkedList.dll
+C:\Users\son\Documents\Github\DataStructure\5_LinkedList\obj\Debug\net8.0\refint\5_LinkedList.dll
+C:\Users\son\Documents\Github\DataStructure\5_LinkedList\obj\Debug\net8.0\5_LinkedList.pdb
+C:\Users\son\Documents\Github\DataStructure\5_LinkedList\obj\Debug\net8.0\5_LinkedList.genruntimeconfig.cache
+C:\Users\son\Documents\Github\DataStructure\5_LinkedList\obj\Debug\net8.0\ref\5_LinkedList.dll

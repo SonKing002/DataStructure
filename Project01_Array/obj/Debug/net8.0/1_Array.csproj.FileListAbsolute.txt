@@ -12,3 +12,4 @@ C:\Users\son\Documents\Github\DataStructure\Project01_Array\obj\Debug\net8.0\ref
 C:\Users\son\Documents\Github\DataStructure\Project01_Array\obj\Debug\net8.0\1_Array.pdb
 C:\Users\son\Documents\Github\DataStructure\Project01_Array\obj\Debug\net8.0\1_Array.genruntimeconfig.cache
 C:\Users\son\Documents\Github\DataStructure\Project01_Array\obj\Debug\net8.0\ref\1_Array.dll
+C:\Users\son\Documents\Github\DataStructure\Project01_Array\obj\Debug\net8.0\1_Array.sourcelink.json

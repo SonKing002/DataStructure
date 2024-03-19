@@ -1,0 +1,15 @@
+C:\Users\son\Documents\Github\DataStructure\3_Stack\bin\Debug\net8.0\3_Stack.exe
+C:\Users\son\Documents\Github\DataStructure\3_Stack\bin\Debug\net8.0\3_Stack.deps.json
+C:\Users\son\Documents\Github\DataStructure\3_Stack\bin\Debug\net8.0\3_Stack.runtimeconfig.json
+C:\Users\son\Documents\Github\DataStructure\3_Stack\bin\Debug\net8.0\3_Stack.dll
+C:\Users\son\Documents\Github\DataStructure\3_Stack\bin\Debug\net8.0\3_Stack.pdb
+C:\Users\son\Documents\Github\DataStructure\3_Stack\obj\Debug\net8.0\3_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\son\Documents\Github\DataStructure\3_Stack\obj\Debug\net8.0\3_Stack.AssemblyInfoInputs.cache
+C:\Users\son\Documents\Github\DataStructure\3_Stack\obj\Debug\net8.0\3_Stack.AssemblyInfo.cs
+C:\Users\son\Documents\Github\DataStructure\3_Stack\obj\Debug\net8.0\3_Stack.csproj.CoreCompileInputs.cache
+C:\Users\son\Documents\Github\DataStructure\3_Stack\obj\Debug\net8.0\3_Stack.sourcelink.json
+C:\Users\son\Documents\Github\DataStructure\3_Stack\obj\Debug\net8.0\3_Stack.dll
+C:\Users\son\Documents\Github\DataStructure\3_Stack\obj\Debug\net8.0\refint\3_Stack.dll
+C:\Users\son\Documents\Github\DataStructure\3_Stack\obj\Debug\net8.0\3_Stack.pdb
+C:\Users\son\Documents\Github\DataStructure\3_Stack\obj\Debug\net8.0\3_Stack.genruntimeconfig.cache
+C:\Users\son\Documents\Github\DataStructure\3_Stack\obj\Debug\net8.0\ref\3_Stack.dll

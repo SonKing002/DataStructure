@@ -1,0 +1,15 @@
+C:\Users\son\Documents\Github\DataStructure\4_StackMaze\obj\Debug\net8.0\4_StackMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\son\Documents\Github\DataStructure\4_StackMaze\obj\Debug\net8.0\4_StackMaze.AssemblyInfoInputs.cache
+C:\Users\son\Documents\Github\DataStructure\4_StackMaze\obj\Debug\net8.0\4_StackMaze.AssemblyInfo.cs
+C:\Users\son\Documents\Github\DataStructure\4_StackMaze\obj\Debug\net8.0\4_StackMaze.csproj.CoreCompileInputs.cache
+C:\Users\son\Documents\Github\DataStructure\4_StackMaze\obj\Debug\net8.0\4_StackMaze.sourcelink.json
+C:\Users\son\Documents\Github\DataStructure\4_StackMaze\bin\Debug\net8.0\4_StackMaze.exe
+C:\Users\son\Documents\Github\DataStructure\4_StackMaze\bin\Debug\net8.0\4_StackMaze.deps.json
+C:\Users\son\Documents\Github\DataStructure\4_StackMaze\bin\Debug\net8.0\4_StackMaze.runtimeconfig.json
+C:\Users\son\Documents\Github\DataStructure\4_StackMaze\bin\Debug\net8.0\4_StackMaze.dll
+C:\Users\son\Documents\Github\DataStructure\4_StackMaze\bin\Debug\net8.0\4_StackMaze.pdb
+C:\Users\son\Documents\Github\DataStructure\4_StackMaze\obj\Debug\net8.0\4_StackMaze.dll
+C:\Users\son\Documents\Github\DataStructure\4_StackMaze\obj\Debug\net8.0\refint\4_StackMaze.dll
+C:\Users\son\Documents\Github\DataStructure\4_StackMaze\obj\Debug\net8.0\4_StackMaze.pdb
+C:\Users\son\Documents\Github\DataStructure\4_StackMaze\obj\Debug\net8.0\4_StackMaze.genruntimeconfig.cache
+C:\Users\son\Documents\Github\DataStructure\4_StackMaze\obj\Debug\net8.0\ref\4_StackMaze.dll

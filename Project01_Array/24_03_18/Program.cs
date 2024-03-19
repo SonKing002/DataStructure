@@ -350,3 +350,29 @@ public class Test
 
 
 #endregion
+#region
+/*
+ * int 배열 변수의 선언은 스택에 , new int[index]; 공간들은 Managed 힙에 할당된다. (가비지 컬렉션이 되는 힙)
+ * 
+ * 버전별로 GC가 존재한다. 세부전공을 할 정도로 섬세함
+ */
+
+/*
+ * Arrays 배열
+ * Value 타입, 참조 타입
+ * 
+ */
+#endregion
+
+#region StackOfT 
+/*
+ * Queue
+ * 
+ * 줄세우기 : 제일 먼저 First In = 제일 먼저 First Out
+ * 
+ * 순차적인 채팅 
+ * 엔진에서 사용 : 렌더링 파트들 명령 전달할 때 시분할 명령을 쪼개서 부분부분씩 전체적으로 진행
+ * 서버에서 사용 
+ * 너비우선 탐색 : BFS (네 방향 모두 1번씩 와리가리하면서 넓힌다)
+ */
+#endregion

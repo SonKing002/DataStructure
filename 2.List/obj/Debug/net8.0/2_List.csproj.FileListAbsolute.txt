@@ -19,3 +19,4 @@ C:\Users\son\Documents\Github\DataStructure\2.List\obj\Debug\net8.0\refint\2_Lis
 C:\Users\son\Documents\Github\DataStructure\2.List\obj\Debug\net8.0\2_List.pdb
 C:\Users\son\Documents\Github\DataStructure\2.List\obj\Debug\net8.0\2_List.genruntimeconfig.cache
 C:\Users\son\Documents\Github\DataStructure\2.List\obj\Debug\net8.0\ref\2_List.dll
+C:\Users\son\Documents\Github\DataStructure\2.List\obj\Debug\net8.0\2_List.sourcelink.json

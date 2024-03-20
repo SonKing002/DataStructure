@@ -2,6 +2,7 @@
 
 public class Stack<T>
 {
+    
     /// <summary>
     /// 자료 저장의 자료형 : 배열, 리스트
     /// </summary>

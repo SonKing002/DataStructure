@@ -1,0 +1,15 @@
+C:\Users\son\Documents\Github\DataStructure\6_DoubleLinkedList\bin\Debug\net8.0\6_DoubleLinkedList.exe
+C:\Users\son\Documents\Github\DataStructure\6_DoubleLinkedList\bin\Debug\net8.0\6_DoubleLinkedList.deps.json
+C:\Users\son\Documents\Github\DataStructure\6_DoubleLinkedList\bin\Debug\net8.0\6_DoubleLinkedList.runtimeconfig.json
+C:\Users\son\Documents\Github\DataStructure\6_DoubleLinkedList\bin\Debug\net8.0\6_DoubleLinkedList.dll
+C:\Users\son\Documents\Github\DataStructure\6_DoubleLinkedList\bin\Debug\net8.0\6_DoubleLinkedList.pdb
+C:\Users\son\Documents\Github\DataStructure\6_DoubleLinkedList\obj\Debug\net8.0\6_DoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\son\Documents\Github\DataStructure\6_DoubleLinkedList\obj\Debug\net8.0\6_DoubleLinkedList.AssemblyInfoInputs.cache
+C:\Users\son\Documents\Github\DataStructure\6_DoubleLinkedList\obj\Debug\net8.0\6_DoubleLinkedList.AssemblyInfo.cs
+C:\Users\son\Documents\Github\DataStructure\6_DoubleLinkedList\obj\Debug\net8.0\6_DoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\son\Documents\Github\DataStructure\6_DoubleLinkedList\obj\Debug\net8.0\6_DoubleLinkedList.sourcelink.json
+C:\Users\son\Documents\Github\DataStructure\6_DoubleLinkedList\obj\Debug\net8.0\6_DoubleLinkedList.dll
+C:\Users\son\Documents\Github\DataStructure\6_DoubleLinkedList\obj\Debug\net8.0\refint\6_DoubleLinkedList.dll
+C:\Users\son\Documents\Github\DataStructure\6_DoubleLinkedList\obj\Debug\net8.0\6_DoubleLinkedList.pdb
+C:\Users\son\Documents\Github\DataStructure\6_DoubleLinkedList\obj\Debug\net8.0\6_DoubleLinkedList.genruntimeconfig.cache
+C:\Users\son\Documents\Github\DataStructure\6_DoubleLinkedList\obj\Debug\net8.0\ref\6_DoubleLinkedList.dll

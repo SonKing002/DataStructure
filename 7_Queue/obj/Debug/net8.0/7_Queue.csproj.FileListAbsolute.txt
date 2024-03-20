@@ -1,0 +1,15 @@
+C:\Users\son\Documents\Github\DataStructure\7_Queue\bin\Debug\net8.0\7_Queue.exe
+C:\Users\son\Documents\Github\DataStructure\7_Queue\bin\Debug\net8.0\7_Queue.deps.json
+C:\Users\son\Documents\Github\DataStructure\7_Queue\bin\Debug\net8.0\7_Queue.runtimeconfig.json
+C:\Users\son\Documents\Github\DataStructure\7_Queue\bin\Debug\net8.0\7_Queue.dll
+C:\Users\son\Documents\Github\DataStructure\7_Queue\bin\Debug\net8.0\7_Queue.pdb
+C:\Users\son\Documents\Github\DataStructure\7_Queue\obj\Debug\net8.0\7_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\son\Documents\Github\DataStructure\7_Queue\obj\Debug\net8.0\7_Queue.AssemblyInfoInputs.cache
+C:\Users\son\Documents\Github\DataStructure\7_Queue\obj\Debug\net8.0\7_Queue.AssemblyInfo.cs
+C:\Users\son\Documents\Github\DataStructure\7_Queue\obj\Debug\net8.0\7_Queue.csproj.CoreCompileInputs.cache
+C:\Users\son\Documents\Github\DataStructure\7_Queue\obj\Debug\net8.0\7_Queue.sourcelink.json
+C:\Users\son\Documents\Github\DataStructure\7_Queue\obj\Debug\net8.0\7_Queue.dll
+C:\Users\son\Documents\Github\DataStructure\7_Queue\obj\Debug\net8.0\refint\7_Queue.dll
+C:\Users\son\Documents\Github\DataStructure\7_Queue\obj\Debug\net8.0\7_Queue.pdb
+C:\Users\son\Documents\Github\DataStructure\7_Queue\obj\Debug\net8.0\7_Queue.genruntimeconfig.cache
+C:\Users\son\Documents\Github\DataStructure\7_Queue\obj\Debug\net8.0\ref\7_Queue.dll

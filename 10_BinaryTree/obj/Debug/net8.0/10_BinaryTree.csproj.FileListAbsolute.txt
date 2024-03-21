@@ -1,0 +1,15 @@
+C:\Users\son\Documents\Github\DataStructure\10_BinaryTree\bin\Debug\net8.0\10_BinaryTree.exe
+C:\Users\son\Documents\Github\DataStructure\10_BinaryTree\bin\Debug\net8.0\10_BinaryTree.deps.json
+C:\Users\son\Documents\Github\DataStructure\10_BinaryTree\bin\Debug\net8.0\10_BinaryTree.runtimeconfig.json
+C:\Users\son\Documents\Github\DataStructure\10_BinaryTree\bin\Debug\net8.0\10_BinaryTree.dll
+C:\Users\son\Documents\Github\DataStructure\10_BinaryTree\bin\Debug\net8.0\10_BinaryTree.pdb
+C:\Users\son\Documents\Github\DataStructure\10_BinaryTree\obj\Debug\net8.0\10_BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\son\Documents\Github\DataStructure\10_BinaryTree\obj\Debug\net8.0\10_BinaryTree.AssemblyInfoInputs.cache
+C:\Users\son\Documents\Github\DataStructure\10_BinaryTree\obj\Debug\net8.0\10_BinaryTree.AssemblyInfo.cs
+C:\Users\son\Documents\Github\DataStructure\10_BinaryTree\obj\Debug\net8.0\10_BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\son\Documents\Github\DataStructure\10_BinaryTree\obj\Debug\net8.0\10_BinaryTree.sourcelink.json
+C:\Users\son\Documents\Github\DataStructure\10_BinaryTree\obj\Debug\net8.0\10_BinaryTree.dll
+C:\Users\son\Documents\Github\DataStructure\10_BinaryTree\obj\Debug\net8.0\refint\10_BinaryTree.dll
+C:\Users\son\Documents\Github\DataStructure\10_BinaryTree\obj\Debug\net8.0\10_BinaryTree.pdb
+C:\Users\son\Documents\Github\DataStructure\10_BinaryTree\obj\Debug\net8.0\10_BinaryTree.genruntimeconfig.cache
+C:\Users\son\Documents\Github\DataStructure\10_BinaryTree\obj\Debug\net8.0\ref\10_BinaryTree.dll

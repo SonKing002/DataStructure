@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SLKb5DH8LH7thnciGZEGjUCryJe7FSMtv9wXMzie2MG9j8QoFYc38pxI9TIkXeSoDbKb/voUWmcABs/13zGfhg==",
+  "dgSpecHash": "jqrpkvnXfD2WZtQiDHEQ/6wlhyGj0XHDS+bBN9UydMmTwe2wt+wes5AC78R3oHssiQXzgf0DPXxh7yKYNW2daQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\8_HashTable\\8_HashTable.csproj",
+  "projectFilePath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\8_HashTable\\08_HashTable.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

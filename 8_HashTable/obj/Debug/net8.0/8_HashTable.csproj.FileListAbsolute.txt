@@ -1,0 +1,15 @@
+C:\Users\son\Documents\Github\DataStructure\8_HashTable\bin\Debug\net8.0\8_HashTable.exe
+C:\Users\son\Documents\Github\DataStructure\8_HashTable\bin\Debug\net8.0\8_HashTable.deps.json
+C:\Users\son\Documents\Github\DataStructure\8_HashTable\bin\Debug\net8.0\8_HashTable.runtimeconfig.json
+C:\Users\son\Documents\Github\DataStructure\8_HashTable\bin\Debug\net8.0\8_HashTable.dll
+C:\Users\son\Documents\Github\DataStructure\8_HashTable\bin\Debug\net8.0\8_HashTable.pdb
+C:\Users\son\Documents\Github\DataStructure\8_HashTable\obj\Debug\net8.0\8_HashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\son\Documents\Github\DataStructure\8_HashTable\obj\Debug\net8.0\8_HashTable.AssemblyInfoInputs.cache
+C:\Users\son\Documents\Github\DataStructure\8_HashTable\obj\Debug\net8.0\8_HashTable.AssemblyInfo.cs
+C:\Users\son\Documents\Github\DataStructure\8_HashTable\obj\Debug\net8.0\8_HashTable.csproj.CoreCompileInputs.cache
+C:\Users\son\Documents\Github\DataStructure\8_HashTable\obj\Debug\net8.0\8_HashTable.sourcelink.json
+C:\Users\son\Documents\Github\DataStructure\8_HashTable\obj\Debug\net8.0\8_HashTable.dll
+C:\Users\son\Documents\Github\DataStructure\8_HashTable\obj\Debug\net8.0\refint\8_HashTable.dll
+C:\Users\son\Documents\Github\DataStructure\8_HashTable\obj\Debug\net8.0\8_HashTable.pdb
+C:\Users\son\Documents\Github\DataStructure\8_HashTable\obj\Debug\net8.0\8_HashTable.genruntimeconfig.cache
+C:\Users\son\Documents\Github\DataStructure\8_HashTable\obj\Debug\net8.0\ref\8_HashTable.dll

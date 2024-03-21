@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\son\\Documents\\Github\\DataStructure\\7_Queue\\7_Queue.csproj",
-      "projectName": "7_Queue",
-      "projectPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\7_Queue\\7_Queue.csproj",
+      "projectUniqueName": "C:\\Users\\son\\Documents\\Github\\DataStructure\\7_Queue\\07_Queue.csproj",
+      "projectName": "07_Queue",
+      "projectPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\7_Queue\\07_Queue.csproj",
       "packagesPath": "C:\\Users\\son\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\7_Queue\\obj\\",
       "projectStyle": "PackageReference",

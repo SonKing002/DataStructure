@@ -3,80 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{023B5D9F-7166-4573-BA27-81E97DD6FB98}|8_HashTable\\8_HashTable.csproj|c:\\users\\son\\documents\\github\\datastructure\\8_hashtable\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{023B5D9F-7166-4573-BA27-81E97DD6FB98}|8_HashTable\\8_HashTable.csproj|solutionrelative:8_hashtable\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{170EFD71-4FB2-4D69-87ED-DC2950608E27}|2.List\\02_List.csproj|c:\\users\\son\\documents\\github\\datastructure\\2.list\\02_list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{170EFD71-4FB2-4D69-87ED-DC2950608E27}|2.List\\02_List.csproj|solutionrelative:2.list\\02_list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{023B5D9F-7166-4573-BA27-81E97DD6FB98}|8_HashTable\\8_HashTable.csproj|c:\\users\\son\\documents\\github\\datastructure\\8_hashtable\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{023B5D9F-7166-4573-BA27-81E97DD6FB98}|8_HashTable\\8_HashTable.csproj|solutionrelative:8_hashtable\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\01_Array.csproj|c:\\users\\son\\documents\\github\\datastructure\\project01_array\\24_03_18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\01_Array.csproj|solutionrelative:project01_array\\24_03_18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{023B5D9F-7166-4573-BA27-81E97DD6FB98}|8_HashTable\\8_HashTable.csproj|c:\\users\\son\\documents\\github\\datastructure\\8_hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{023B5D9F-7166-4573-BA27-81E97DD6FB98}|8_HashTable\\8_HashTable.csproj|solutionrelative:8_hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4933038E-4346-4CD4-A2E2-8CC2BD873247}|10_BinaryTree\\10_BinaryTree.csproj|c:\\users\\son\\documents\\github\\datastructure\\10_binarytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4933038E-4346-4CD4-A2E2-8CC2BD873247}|10_BinaryTree\\10_BinaryTree.csproj|solutionrelative:10_binarytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{023B5D9F-7166-4573-BA27-81E97DD6FB98}|8_HashTable\\8_HashTable.csproj|c:\\users\\son\\documents\\github\\datastructure\\8_hashtable\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{023B5D9F-7166-4573-BA27-81E97DD6FB98}|8_HashTable\\8_HashTable.csproj|solutionrelative:8_hashtable\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4933038E-4346-4CD4-A2E2-8CC2BD873247}|10_BinaryTree\\10_BinaryTree.csproj|c:\\users\\son\\documents\\github\\datastructure\\10_binarytree\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4933038E-4346-4CD4-A2E2-8CC2BD873247}|10_BinaryTree\\10_BinaryTree.csproj|solutionrelative:10_binarytree\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB1C3CFA-F48B-47AD-9AF4-4A2402F32584}|7_Queue\\7_Queue.csproj|c:\\users\\son\\documents\\github\\datastructure\\7_queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB1C3CFA-F48B-47AD-9AF4-4A2402F32584}|7_Queue\\7_Queue.csproj|solutionrelative:7_queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4933038E-4346-4CD4-A2E2-8CC2BD873247}|10_BinaryTree\\10_BinaryTree.csproj|c:\\users\\son\\documents\\github\\datastructure\\10_binarytree\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4933038E-4346-4CD4-A2E2-8CC2BD873247}|10_BinaryTree\\10_BinaryTree.csproj|solutionrelative:10_binarytree\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB1C3CFA-F48B-47AD-9AF4-4A2402F32584}|7_Queue\\7_Queue.csproj|c:\\users\\son\\documents\\github\\datastructure\\7_queue\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB1C3CFA-F48B-47AD-9AF4-4A2402F32584}|7_Queue\\7_Queue.csproj|solutionrelative:7_queue\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9ABF984-1C53-4B1C-9A21-73394F0AAD73}|9_Tree\\09_Tree.csproj|c:\\users\\son\\documents\\github\\datastructure\\9_tree\\09_tree.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9ABF984-1C53-4B1C-9A21-73394F0AAD73}|9_Tree\\09_Tree.csproj|solutionrelative:9_tree\\09_tree.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB1C3CFA-F48B-47AD-9AF4-4A2402F32584}|7_Queue\\7_Queue.csproj|c:\\users\\son\\documents\\github\\datastructure\\7_queue\\7_queue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DB1C3CFA-F48B-47AD-9AF4-4A2402F32584}|7_Queue\\7_Queue.csproj|solutionrelative:7_queue\\7_queue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B9ABF984-1C53-4B1C-9A21-73394F0AAD73}|9_Tree\\9_Tree.csproj|c:\\users\\son\\documents\\github\\datastructure\\9_tree\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9ABF984-1C53-4B1C-9A21-73394F0AAD73}|9_Tree\\9_Tree.csproj|solutionrelative:9_tree\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DFF9B7D-0801-44A9-A73B-7BAC825183EC}|6_DoubleLinkedList\\6_DoubleLinkedList.csproj|c:\\users\\son\\documents\\github\\datastructure\\6_doublelinkedlist\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DFF9B7D-0801-44A9-A73B-7BAC825183EC}|6_DoubleLinkedList\\6_DoubleLinkedList.csproj|solutionrelative:6_doublelinkedlist\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9ABF984-1C53-4B1C-9A21-73394F0AAD73}|9_Tree\\9_Tree.csproj|c:\\users\\son\\documents\\github\\datastructure\\9_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9ABF984-1C53-4B1C-9A21-73394F0AAD73}|9_Tree\\9_Tree.csproj|solutionrelative:9_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DFF9B7D-0801-44A9-A73B-7BAC825183EC}|6_DoubleLinkedList\\6_DoubleLinkedList.csproj|c:\\users\\son\\documents\\github\\datastructure\\6_doublelinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DFF9B7D-0801-44A9-A73B-7BAC825183EC}|6_DoubleLinkedList\\6_DoubleLinkedList.csproj|solutionrelative:6_doublelinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{170EFD71-4FB2-4D69-87ED-DC2950608E27}|2.List\\2_List.csproj|c:\\users\\son\\documents\\github\\datastructure\\2.list\\listoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{170EFD71-4FB2-4D69-87ED-DC2950608E27}|2.List\\2_List.csproj|solutionrelative:2.list\\listoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3F080D-CFC1-401D-8BB5-BA4F4ED964E2}|5_LinkedList\\5_LinkedList.csproj|c:\\users\\son\\documents\\github\\datastructure\\5_linkedlist\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3F080D-CFC1-401D-8BB5-BA4F4ED964E2}|5_LinkedList\\5_LinkedList.csproj|solutionrelative:5_linkedlist\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3F080D-CFC1-401D-8BB5-BA4F4ED964E2}|5_LinkedList\\5_LinkedList.csproj|c:\\users\\son\\documents\\github\\datastructure\\5_linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3F080D-CFC1-401D-8BB5-BA4F4ED964E2}|5_LinkedList\\5_LinkedList.csproj|solutionrelative:5_linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C180B1D0-40C1-46B5-A670-2E48C9EDC8BF}|3_Stack\\3_Stack.csproj|c:\\users\\son\\documents\\github\\datastructure\\3_stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C180B1D0-40C1-46B5-A670-2E48C9EDC8BF}|3_Stack\\3_Stack.csproj|solutionrelative:3_stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C180B1D0-40C1-46B5-A670-2E48C9EDC8BF}|3_Stack\\3_Stack.csproj|c:\\users\\son\\documents\\github\\datastructure\\3_stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C180B1D0-40C1-46B5-A670-2E48C9EDC8BF}|3_Stack\\3_Stack.csproj|solutionrelative:3_stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{234A1237-39DD-47EE-9EDA-D26F1A41EB89}|4_StackMaze\\4_StackMaze.csproj|c:\\users\\son\\documents\\github\\datastructure\\4_stackmaze\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{234A1237-39DD-47EE-9EDA-D26F1A41EB89}|4_StackMaze\\4_StackMaze.csproj|solutionrelative:4_stackmaze\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{234A1237-39DD-47EE-9EDA-D26F1A41EB89}|4_StackMaze\\4_StackMaze.csproj|c:\\users\\son\\documents\\github\\datastructure\\4_stackmaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{234A1237-39DD-47EE-9EDA-D26F1A41EB89}|4_StackMaze\\4_StackMaze.csproj|solutionrelative:4_stackmaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{234A1237-39DD-47EE-9EDA-D26F1A41EB89}|4_StackMaze\\4_StackMaze.csproj|c:\\users\\son\\documents\\github\\datastructure\\4_stackmaze\\location2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{234A1237-39DD-47EE-9EDA-D26F1A41EB89}|4_StackMaze\\4_StackMaze.csproj|solutionrelative:4_stackmaze\\location2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\1_Array.csproj|c:\\users\\son\\documents\\github\\datastructure\\project01_array\\24_03_18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\1_Array.csproj|solutionrelative:project01_array\\24_03_18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\1_Array.csproj|c:\\users\\son\\documents\\github\\datastructure\\project01_array\\1_array.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{376D8F31-2786-4A3D-A948-E5D00D56B866}|Project01_Array\\1_Array.csproj|solutionrelative:project01_array\\1_array.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B9ABF984-1C53-4B1C-9A21-73394F0AAD73}|9_Tree\\9_Tree.csproj|c:\\users\\son\\documents\\github\\datastructure\\9_tree\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9ABF984-1C53-4B1C-9A21-73394F0AAD73}|9_Tree\\9_Tree.csproj|solutionrelative:9_tree\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -91,243 +51,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HashTable.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\8_HashTable\\HashTable.cs",
-              "RelativeDocumentMoniker": "8_HashTable\\HashTable.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\8_HashTable\\HashTable.cs",
-              "RelativeToolTip": "8_HashTable\\HashTable.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAqwFEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T08:13:48.327Z",
+              "Title": "02_List",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\02_List.csproj",
+              "RelativeDocumentMoniker": "2.List\\02_List.csproj",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\02_List.csproj",
+              "RelativeToolTip": "2.List\\02_List.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T08:51:22.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Pair.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\8_HashTable\\Pair.cs",
-              "RelativeDocumentMoniker": "8_HashTable\\Pair.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\8_HashTable\\Pair.cs",
-              "RelativeToolTip": "8_HashTable\\Pair.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAgwB4AAAAWAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\24_03_18\\Program.cs",
+              "RelativeDocumentMoniker": "Project01_Array\\24_03_18\\Program.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\24_03_18\\Program.cs",
+              "RelativeToolTip": "Project01_Array\\24_03_18\\Program.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAwLAAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T08:10:52.567Z",
+              "WhenOpened": "2024-03-21T08:07:53.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BinaryTree.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\10_BinaryTree\\BinaryTree.cs",
+              "RelativeDocumentMoniker": "10_BinaryTree\\BinaryTree.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\10_BinaryTree\\BinaryTree.cs",
+              "RelativeToolTip": "10_BinaryTree\\BinaryTree.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAvwGwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T07:26:55.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\8_HashTable\\LinkedList.cs",
-              "RelativeDocumentMoniker": "8_HashTable\\LinkedList.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\8_HashTable\\LinkedList.cs",
-              "RelativeToolTip": "8_HashTable\\LinkedList.cs",
-              "ViewState": "AQIAAN0AAAAAAAAAAAAAwPEAAAAJAAAA",
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\10_BinaryTree\\Node.cs",
+              "RelativeDocumentMoniker": "10_BinaryTree\\Node.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\10_BinaryTree\\Node.cs",
+              "RelativeToolTip": "10_BinaryTree\\Node.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T08:08:00.838Z",
+              "WhenOpened": "2024-03-21T07:24:50.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\8_HashTable\\Program.cs",
-              "RelativeDocumentMoniker": "8_HashTable\\Program.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\8_HashTable\\Program.cs",
-              "RelativeToolTip": "8_HashTable\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\10_BinaryTree\\Program.cs",
+              "RelativeDocumentMoniker": "10_BinaryTree\\Program.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\10_BinaryTree\\Program.cs",
+              "RelativeToolTip": "10_BinaryTree\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T08:07:41.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "7_Queue",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\7_Queue\\7_Queue.csproj",
-              "RelativeDocumentMoniker": "7_Queue\\7_Queue.csproj",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\7_Queue\\7_Queue.csproj",
-              "RelativeToolTip": "7_Queue\\7_Queue.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-20T06:14:59.323Z",
+              "WhenOpened": "2024-03-21T07:23:20.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Queue.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\7_Queue\\Queue.cs",
-              "RelativeDocumentMoniker": "7_Queue\\Queue.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\7_Queue\\Queue.cs",
-              "RelativeToolTip": "7_Queue\\Queue.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAnwIAAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T05:42:59.235Z",
+              "Title": "09_Tree.csproj",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\9_Tree\\09_Tree.csproj",
+              "RelativeDocumentMoniker": "9_Tree\\09_Tree.csproj",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\9_Tree\\09_Tree.csproj",
+              "RelativeToolTip": "9_Tree\\09_Tree.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T04:46:46.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\7_Queue\\Program.cs",
-              "RelativeDocumentMoniker": "7_Queue\\Program.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\7_Queue\\Program.cs",
-              "RelativeToolTip": "7_Queue\\Program.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAkwGcAAAAsAAAA",
+              "DocumentIndex": 6,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\9_Tree\\Tree.cs",
+              "RelativeDocumentMoniker": "9_Tree\\Tree.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\9_Tree\\Tree.cs",
+              "RelativeToolTip": "9_Tree\\Tree.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAkwKAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T05:42:21.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\6_DoubleLinkedList\\LinkedList.cs",
-              "RelativeDocumentMoniker": "6_DoubleLinkedList\\LinkedList.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\6_DoubleLinkedList\\LinkedList.cs",
-              "RelativeToolTip": "6_DoubleLinkedList\\LinkedList.cs",
-              "ViewState": "AQIAAM8AAAAAAAAAAAAnwOAAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T01:25:08.976Z",
+              "WhenOpened": "2024-03-21T05:33:25.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\6_DoubleLinkedList\\Program.cs",
-              "RelativeDocumentMoniker": "6_DoubleLinkedList\\Program.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\6_DoubleLinkedList\\Program.cs",
-              "RelativeToolTip": "6_DoubleLinkedList\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwB0AAAAAAAAA",
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\9_Tree\\List.cs",
+              "RelativeDocumentMoniker": "9_Tree\\List.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\9_Tree\\List.cs",
+              "RelativeToolTip": "9_Tree\\List.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAjwDUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T01:24:13.38Z",
+              "WhenOpened": "2024-03-21T04:46:57.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\5_LinkedList\\LinkedList.cs",
-              "RelativeDocumentMoniker": "5_LinkedList\\LinkedList.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\5_LinkedList\\LinkedList.cs",
-              "RelativeToolTip": "5_LinkedList\\LinkedList.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAgwFAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T07:35:08.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\5_LinkedList\\Program.cs",
-              "RelativeDocumentMoniker": "5_LinkedList\\Program.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\5_LinkedList\\Program.cs",
-              "RelativeToolTip": "5_LinkedList\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAPAAAA",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\9_Tree\\Program.cs",
+              "RelativeDocumentMoniker": "9_Tree\\Program.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\9_Tree\\Program.cs",
+              "RelativeToolTip": "9_Tree\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwHoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T07:34:54.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\24_03_18\\Program.cs",
-              "RelativeDocumentMoniker": "Project01_Array\\24_03_18\\Program.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\24_03_18\\Program.cs",
-              "RelativeToolTip": "Project01_Array\\24_03_18\\Program.cs",
-              "ViewState": "AQIAAIwAAAAAAAAAAAAAwIoAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T02:33:13.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "1_Array.csproj",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\1_Array.csproj",
-              "RelativeDocumentMoniker": "Project01_Array\\1_Array.csproj",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\1_Array.csproj",
-              "RelativeToolTip": "Project01_Array\\1_Array.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-19T02:33:09.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Location2D.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\4_StackMaze\\Location2D.cs",
-              "RelativeDocumentMoniker": "4_StackMaze\\Location2D.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\4_StackMaze\\Location2D.cs",
-              "RelativeToolTip": "4_StackMaze\\Location2D.cs",
-              "ViewState": "AQIAAG4AAAAAAAAAAAAAAGMAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T01:49:08.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Stack.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\4_StackMaze\\Stack.cs",
-              "RelativeDocumentMoniker": "4_StackMaze\\Stack.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\4_StackMaze\\Stack.cs",
-              "RelativeToolTip": "4_StackMaze\\Stack.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAqwEoAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T01:47:42.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\4_StackMaze\\Program.cs",
-              "RelativeDocumentMoniker": "4_StackMaze\\Program.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\4_StackMaze\\Program.cs",
-              "RelativeToolTip": "4_StackMaze\\Program.cs",
-              "ViewState": "AQIAAHAAAAAAAAAAAAAqwJAAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T01:47:01.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Stack.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\3_Stack\\Stack.cs",
-              "RelativeDocumentMoniker": "3_Stack\\Stack.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\3_Stack\\Stack.cs",
-              "RelativeToolTip": "3_Stack\\Stack.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T01:06:16.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\3_Stack\\Program.cs",
-              "RelativeDocumentMoniker": "3_Stack\\Program.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\3_Stack\\Program.cs",
-              "RelativeToolTip": "3_Stack\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T00:58:51.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ListofT.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\ListofT.cs",
-              "RelativeDocumentMoniker": "2.List\\ListofT.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\DataStructure\\2.List\\ListofT.cs",
-              "RelativeToolTip": "2.List\\ListofT.cs",
-              "ViewState": "AQIAAKAAAAAAAAAAAADwv8MAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T05:40:34.891Z",
+              "WhenOpened": "2024-03-21T04:36:13.827Z",
               "EditorCaption": ""
             }
           ]

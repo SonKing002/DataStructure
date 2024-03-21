@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\son\\Documents\\Github\\DataStructure\\5_LinkedList\\5_LinkedList.csproj",
-      "projectName": "5_LinkedList",
-      "projectPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\5_LinkedList\\5_LinkedList.csproj",
+      "projectUniqueName": "C:\\Users\\son\\Documents\\Github\\DataStructure\\5_LinkedList\\05_LinkedList.csproj",
+      "projectName": "05_LinkedList",
+      "projectPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\5_LinkedList\\05_LinkedList.csproj",
       "packagesPath": "C:\\Users\\son\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\5_LinkedList\\obj\\",
       "projectStyle": "PackageReference",

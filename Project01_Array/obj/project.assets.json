@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\1_Array.csproj",
-      "projectName": "1_Array",
-      "projectPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\1_Array.csproj",
+      "projectUniqueName": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\01_Array.csproj",
+      "projectName": "01_Array",
+      "projectPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\01_Array.csproj",
       "packagesPath": "C:\\Users\\son\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\Project01_Array\\obj\\",
       "projectStyle": "PackageReference",

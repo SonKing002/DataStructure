@@ -1,0 +1,15 @@
+C:\Users\son\Documents\Github\DataStructure\9_Tree\bin\Debug\net8.0\09_Tree.exe
+C:\Users\son\Documents\Github\DataStructure\9_Tree\bin\Debug\net8.0\09_Tree.deps.json
+C:\Users\son\Documents\Github\DataStructure\9_Tree\bin\Debug\net8.0\09_Tree.runtimeconfig.json
+C:\Users\son\Documents\Github\DataStructure\9_Tree\bin\Debug\net8.0\09_Tree.dll
+C:\Users\son\Documents\Github\DataStructure\9_Tree\bin\Debug\net8.0\09_Tree.pdb
+C:\Users\son\Documents\Github\DataStructure\9_Tree\obj\Debug\net8.0\09_Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\son\Documents\Github\DataStructure\9_Tree\obj\Debug\net8.0\09_Tree.AssemblyInfoInputs.cache
+C:\Users\son\Documents\Github\DataStructure\9_Tree\obj\Debug\net8.0\09_Tree.AssemblyInfo.cs
+C:\Users\son\Documents\Github\DataStructure\9_Tree\obj\Debug\net8.0\09_Tree.csproj.CoreCompileInputs.cache
+C:\Users\son\Documents\Github\DataStructure\9_Tree\obj\Debug\net8.0\09_Tree.sourcelink.json
+C:\Users\son\Documents\Github\DataStructure\9_Tree\obj\Debug\net8.0\09_Tree.dll
+C:\Users\son\Documents\Github\DataStructure\9_Tree\obj\Debug\net8.0\refint\09_Tree.dll
+C:\Users\son\Documents\Github\DataStructure\9_Tree\obj\Debug\net8.0\09_Tree.pdb
+C:\Users\son\Documents\Github\DataStructure\9_Tree\obj\Debug\net8.0\09_Tree.genruntimeconfig.cache
+C:\Users\son\Documents\Github\DataStructure\9_Tree\obj\Debug\net8.0\ref\09_Tree.dll

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\son\\Documents\\Github\\DataStructure\\4_StackMaze\\4_StackMaze.csproj",
-      "projectName": "4_StackMaze",
-      "projectPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\4_StackMaze\\4_StackMaze.csproj",
+      "projectUniqueName": "C:\\Users\\son\\Documents\\Github\\DataStructure\\4_StackMaze\\04_StackMaze.csproj",
+      "projectName": "04_StackMaze",
+      "projectPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\4_StackMaze\\04_StackMaze.csproj",
       "packagesPath": "C:\\Users\\son\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\4_StackMaze\\obj\\",
       "projectStyle": "PackageReference",

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\son\\Documents\\Github\\DataStructure\\8_HashTable\\8_HashTable.csproj",
-      "projectName": "8_HashTable",
-      "projectPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\8_HashTable\\8_HashTable.csproj",
+      "projectUniqueName": "C:\\Users\\son\\Documents\\Github\\DataStructure\\8_HashTable\\08_HashTable.csproj",
+      "projectName": "08_HashTable",
+      "projectPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\8_HashTable\\08_HashTable.csproj",
       "packagesPath": "C:\\Users\\son\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\8_HashTable\\obj\\",
       "projectStyle": "PackageReference",

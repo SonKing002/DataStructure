@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\son\\Documents\\Github\\DataStructure\\3_Stack\\3_Stack.csproj",
-      "projectName": "3_Stack",
-      "projectPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\3_Stack\\3_Stack.csproj",
+      "projectUniqueName": "C:\\Users\\son\\Documents\\Github\\DataStructure\\3_Stack\\03_Stack.csproj",
+      "projectName": "03_Stack",
+      "projectPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\3_Stack\\03_Stack.csproj",
       "packagesPath": "C:\\Users\\son\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\son\\Documents\\Github\\DataStructure\\3_Stack\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "07_1QueueMaze/1.0.0": {
+        "runtime": {
+          "07_1QueueMaze.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07_1QueueMaze/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\son\Documents\Github\DataStructure\07_1QueueMaze\obj\Debug\net8.0\07_1QueueMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\son\Documents\Github\DataStructure\07_1QueueMaze\obj\Debug\net8.0\07_1QueueMaze.AssemblyInfoInputs.cache
+C:\Users\son\Documents\Github\DataStructure\07_1QueueMaze\obj\Debug\net8.0\07_1QueueMaze.AssemblyInfo.cs
+C:\Users\son\Documents\Github\DataStructure\07_1QueueMaze\obj\Debug\net8.0\07_1QueueMaze.csproj.CoreCompileInputs.cache
+C:\Users\son\Documents\Github\DataStructure\07_1QueueMaze\obj\Debug\net8.0\07_1QueueMaze.sourcelink.json
+C:\Users\son\Documents\Github\DataStructure\07_1QueueMaze\bin\Debug\net8.0\07_1QueueMaze.exe
+C:\Users\son\Documents\Github\DataStructure\07_1QueueMaze\bin\Debug\net8.0\07_1QueueMaze.deps.json
+C:\Users\son\Documents\Github\DataStructure\07_1QueueMaze\bin\Debug\net8.0\07_1QueueMaze.runtimeconfig.json
+C:\Users\son\Documents\Github\DataStructure\07_1QueueMaze\bin\Debug\net8.0\07_1QueueMaze.dll
+C:\Users\son\Documents\Github\DataStructure\07_1QueueMaze\bin\Debug\net8.0\07_1QueueMaze.pdb
+C:\Users\son\Documents\Github\DataStructure\07_1QueueMaze\obj\Debug\net8.0\07_1QueueMaze.dll
+C:\Users\son\Documents\Github\DataStructure\07_1QueueMaze\obj\Debug\net8.0\refint\07_1QueueMaze.dll
+C:\Users\son\Documents\Github\DataStructure\07_1QueueMaze\obj\Debug\net8.0\07_1QueueMaze.pdb
+C:\Users\son\Documents\Github\DataStructure\07_1QueueMaze\obj\Debug\net8.0\07_1QueueMaze.genruntimeconfig.cache
+C:\Users\son\Documents\Github\DataStructure\07_1QueueMaze\obj\Debug\net8.0\ref\07_1QueueMaze.dll
